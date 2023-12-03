@@ -1,0 +1,241 @@
+*{ 
+    background: #F8EDE3;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box; 
+}
+body{
+    font-family: verdena; 
+}
+nav{
+    margin-top: 10px; 
+    height: 80px;
+    width: 100%;
+}
+h4{
+    color: grey;
+    font-size:20px;
+    font-weight:400;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: -658px;
+    
+}
+
+label.logo{
+    color: grey;
+    font-size: 40px;
+    line-height: 80px;
+    padding-left: 60px;
+    padding : 40;
+    font-weight:lighter;
+}
+nav ul{
+    float: right;
+    margin-right:  200px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    
+}
+nav ul li a{
+    color: grey;
+    font-size : 17px;
+    padding: 15px 20px;
+    border-radius : 3px; 
+    text-transform: uppercase;
+}
+a.actice,a:hover{
+    background:white ; 
+}
+label.header{
+    color: grey;
+    font-size: 35px;
+    line-height: 150px;
+    padding-left: 250px;
+    font-weight:bolder;
+}
+label.education{
+    color: grey;
+    font-size: 35px;
+    line-height: 150px;
+    padding-left: 800px;
+    font-weight:bolder;
+}
+p{
+    font-size: 20px;
+    margin-left: 110px;
+    color: grey;
+    height: 300px;
+    width: 500px;
+    margin-top:10px;
+
+}
+.box1{
+    height: 250px;
+    width: 540px;
+    background: #D9BD9C;
+    margin-left: 80px;
+    margin-top: -330px;
+    border-radius: 50px;
+}
+.box2{
+    height: 180px;
+    width: 300px;
+    background: hwb(32 61% 15%);
+    margin-left: 760px;
+    margin-top: -150px;
+    border-radius: 50px;
+}
+.cat-photo{
+    position:absolute;
+    border-radius: 1800px;
+    height: 100px;
+    width: 100px;
+    margin-left: 540px;
+    margin-top: -80px;
+}
+.bunga-photo{
+    position: absolute;
+    border-radius: 1800px;
+    height: 80px;
+    width: 80px;
+    margin-left: 1000px;
+    margin-top: -60px;
+}
+.cat1-photo{
+    position: absolute;
+    border-radius: 1800px;
+    height: 70px;
+    width: 70px;
+    margin-left: 585px;
+    margin-top: -50px;
+}
+p1{
+    margin-left: 800px;
+    color: grey;
+    background-color:#D9BD9C;
+}
+p2{
+    margin-left: 800px;
+    color: grey;
+    background-color: #D9BD9C;
+}
+p3{
+    margin-left: 800px;
+    color: grey;
+    background-color: #D9BD9C;
+}
+p4{
+    margin-left: 800px;
+    color: grey;
+    background-color: #D9BD9C;
+}
+label.hobby{
+    color: grey;
+    font-size: 35px;
+    position: absolute;
+    padding-left: 250px;
+    top: 800px;
+    font-weight: bold;
+}
+p5{
+    position: absolute;
+    color:grey;
+    background-color: #D9BD9C;
+    font-size: 20px;
+    margin-left: 120px;
+    margin-top: 140px;
+   
+}
+.box3{
+    height: 170px;
+    width: 550px;
+    background: #D9BD9C;
+    margin-left: 100px;
+    margin-top: 100px;
+    border-radius: 50px;
+}
+.call-photo{
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 350px;
+    height: 50px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+}
+.pesan-photo{
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 350px;
+    height: 50px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+}
+.plus-photo{
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 350px;
+    height: 50px;
+    margin-left: 900px;
+    margin-bottom: 20px;
+}
+.instagram-photo{
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 372px;
+    height: 25px;
+    margin-left: 960px;
+    margin-bottom: 20px;
+}
+.tiktok-photo{
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 372px;
+    height: 25px;
+    margin-left: 995px;
+    margin-bottom: 20px;
+}
+h3{
+    color: grey;
+    font-size:16px;
+    font-weight:100;
+    margin-top:355px;
+    margin-left: 60px;
+    padding-left: 70px;
+}
+h5{
+    color: grey;
+    font-size:16px;
+    font-weight:100;
+    margin-top: 4px;
+    margin-left: 60px;
+    padding-left: 70px;
+}
+h6{
+    color: grey;
+    font-size:16px;
+    font-weight:100;
+    margin-top: -40px;
+    margin-left: 490px;
+    padding-left: 70px;
+}
+h7{
+    color: grey;
+    font-size:16px;
+    font-weight:100;
+    margin-top: -35px;
+    margin-left: 490px;
+    padding-left: 70px;
+}
+h8{
+    color: grey;
+    font-size: 15px;
+    position: absolute;
+    margin-left: 258px;
+    bottom: -735px;
+}
+
